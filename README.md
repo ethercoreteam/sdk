@@ -31,11 +31,7 @@ Please see the [documentation page](https://loopring.github.io/loopring_sdk/) fo
 ## 🫂 Community
 
 - [Loopring Website](https://loopring.org/)
-- [Loopring Exchange](https://loopring.io/#/layer2)
-- [Loopring Reddit](https://www.reddit.com/r/loopringorg/)
-- [Loopring Medium](https://medium.com/loopring-protocol)
-- [Loopring Twitter](https://twitter.com/loopringorg)
-- [Loopring Telegram](https://t.me/loopring_en)
+
 
 ## 🎒 Getting Started
 
